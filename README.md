@@ -68,6 +68,7 @@ In the window, it's in three places:
 **What it can't do:** judge meaning. "The ship ate a happy idea." passes every rule. It also only checks words its lists know. Tested on 13,000 sentences from published books, it flagged 0.8%, and nearly all of those were genuinely old grammar (King James Bible "an hundred", Shakespeare "stronger then").
 
 ## 3D word map
+<img width="1306" height="584" alt="Screenshot 2026-11-17 191950" src="https://github.com/user-attachments/assets/3c340f36-1302-4263-9f6a-8d5115daff83" />
 
 ```
 python ngram_map.py model.db
