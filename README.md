@@ -10,7 +10,7 @@ You feed it text (`.txt`, `.md`, `.pdf`). It counts which word follows which, an
 <<<<<<< HEAD
 
 =======
->>>>>>> 0407a11b4ebdd924984a926696f0e757b20cefa4
+
 
 ## Setup (Windows, macOS or Linux)
 
@@ -161,4 +161,4 @@ These three limits are exactly what neural language models fix. Word embeddings 
 <<<<<<< HEAD
 
 =======
->>>>>>> 0407a11b4ebdd924984a926696f0e757b20cefa4
+
