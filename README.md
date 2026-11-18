@@ -6,6 +6,7 @@ You feed it text (`.txt`, `.md`, `.pdf`). It counts which word follows which, an
 - suggest the next word like a phone keyboard (`predict`)
 - let it write text (`generate`)
 - compress messages (`compress` / `decompress`)
+- Visualise using ngram-map
 
 ## Setup (Windows, macOS or Linux)
 
