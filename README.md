@@ -154,4 +154,3 @@ The "proper" version of this replaces ranks with **arithmetic coding**. That spe
 - **The context is fixed.** It sees 4 words back and nothing before that.
 
 These three limits are exactly what neural language models fix. Word embeddings fix "similar words". Attention fixes "fixed context": every word can look back at every earlier word and decide which ones matter. Your n-gram table is the baseline your LLM has to beat.
-
